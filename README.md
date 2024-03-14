@@ -10,11 +10,11 @@ We public some codes in this branch and when the paper are accepted, we will rel
 
 
 Setup
-Clone the repository with git clone https://github.com/zhoukang12321/MGL_VN_2024.git && cd MGL_VN_2024.
+Clone the repository with git clone 
 
 Install the necessary packages. If you are using pip then simply run pip install -r requirements.txt.
 
-Download the pretrained models and data to the MGL_VN_2024 directory. Untar with
+Download the pretrained models and data to the ABM_VN_2024 directory. Untar with
 
 tar -xzf pretrained_models.tar.gz
 tar -xzf data.tar.gz
